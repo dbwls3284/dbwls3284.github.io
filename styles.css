@@ -1,27 +1,5 @@
 
 
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-/*************************************************
- *  Hugo Academic: an academic theme for Hugo.
- *  Designed by @GeorgeCushen.
- *  https://github.com/gcushen/hugo-academic
- **************************************************/
-
-/*************************************************
- *  Core
- **************************************************/
-
 html {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
@@ -121,7 +99,7 @@ h3.article-title a:hover {
 
 a:hover,
 a:focus {
-  color: #2962ff;
+  color: #2596be;
 }
 
 img,
