@@ -1,3 +1,4 @@
+.pub-row { display: flex; align-items: center; }
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap");
 .badge {
     display: inline-block;
