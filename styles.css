@@ -645,6 +645,9 @@ ul.network-icon {
 .big-icon {
   font-size: 2rem;
 }
+.mid-icon {
+  font-size: 1rem;
+}
 
 ul.ul-interests li {
   font-size: 0.9rem;
