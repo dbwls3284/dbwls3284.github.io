@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap");
 
-.email { font-size: 14px; font-family: "Ubuntu Mono"; }
+
 html {
   font-family: 'Roboto', sans-serif;
 /*   font-family: 'Crimson Pro', sans-serif; */
@@ -91,6 +91,7 @@ h4, h5, h6 {
   margin-top: 1rem;
   font-size: 1rem;
 }
+email { font-size: 14px; font-family: "Ubuntu Mono"; }
 
 a,
 h3.article-title a:hover {
