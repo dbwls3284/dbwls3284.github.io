@@ -92,14 +92,14 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: #EC7D3C;
+  color: #FF6C0C;
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: #EC7D3C;
+  color: #FF6C0C;
 }
 
 img,
@@ -355,7 +355,7 @@ small,
 }
 
 .form-control:focus {
-  border-color: #EC7D3C;
+  border-color: #FF6C0C;
   box-shadow: 0 0 0 .2rem #768fff;
 }
 
@@ -577,7 +577,7 @@ a[data-fancybox] img {
 .featurette-icon {
   display: block;
   width: 100%;
-  color: #EC7D3C;
+  color: #FF6C0C;
   font-size: 3rem;
   text-align: center;
 }
@@ -863,7 +863,7 @@ article .article-metadata {
 }
 
 .article-metadata a:hover {
-  color: #EC7D3C;
+  color: #FF6C0C;
 }
 
 .middot-divider {
@@ -1112,11 +1112,11 @@ article .article-metadata {
 
 .experience .m-2 .border,
 .experience .col.border-right {
-  border-color: #EC7D3C !important;
+  border-color: #FF6C0C !important;
 }
 
 .experience .m-2 .border.exp-fill {
-  background-color: #EC7D3C !important;
+  background-color: #FF6C0C !important;
 }
 
 /*************************************************
@@ -1406,13 +1406,13 @@ a.badge:hover {
  **************************************************/
 
 .btn-primary {
-  border-color: #EC7D3C;
-  background: #EC7D3C;
+  border-color: #FF6C0C;
+  background: #FF6C0C;
 }
 
 .btn-outline-primary {
-  border-color: #EC7D3C;
-  color: #EC7D3C;
+  border-color: #FF6C0C;
+  color: #FF6C0C;
 }
 
 .btn-primary:hover,
@@ -1420,7 +1420,7 @@ a.badge:hover {
 .btn-primary.active,
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
-  background: #EC7D3C;
+  background: #FF6C0C;
 }
 
 .btn-outline-light:hover,
@@ -1433,8 +1433,8 @@ a.badge:hover {
 .btn-outline-primary:not(:disabled):not(.disabled):active,
 .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color: #EC7D3C;
-  border-color: #EC7D3C;
+  background-color: #FF6C0C;
+  border-color: #FF6C0C;
 }
 
 .dark .btn-outline-primary:not(:disabled):not(.disabled).active,
@@ -1445,8 +1445,8 @@ a.badge:hover {
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #EC7D3C;
-  border-color: #EC7D3C;
+  background-color: #FF6C0C;
+  border-color: #FF6C0C;
 }
 
 .dark .btn-outline-primary:hover {
@@ -1534,14 +1534,14 @@ nav#navbar-main li.nav-item {
 }
 
 .navbar-light .navbar-nav>.nav-item>.nav-link:hover {
-  color: #EC7D3C;
+  color: #FF6C0C;
   background-color: transparent;
 }
 
 .navbar-light .navbar-nav>li.nav-item>a.active,
 .navbar-light .navbar-nav>li.nav-item>a.active:focus,
 .navbar-light .navbar-nav>li.nav-item>a.active:hover {
-  color: #EC7D3C;
+  color: #FF6C0C;
   font-weight: 700;
   background-color: transparent !important; /* Override Bootstrap. */
 }
@@ -1578,7 +1578,7 @@ nav#navbar-main li.nav-item {
 
 .dropdown-menu>li>a:focus,
 .dropdown-menu>li>a:hover {
-  color: #EC7D3C;
+  color: #FF6C0C;
   text-decoration: none;
   background-color: #fff;
 }
@@ -1588,7 +1588,7 @@ nav#navbar-main li.nav-item {
 .dropdown-menu > .active:hover {
   color: #fff;
   text-decoration: none;
-  background-color: #EC7D3C;
+  background-color: #FF6C0C;
   outline: 0;
 }
 
@@ -1678,7 +1678,7 @@ nav#navbar-main li.nav-item {
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active,
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active:focus,
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active:hover {
-    color: #EC7D3C;
+    color: #FF6C0C;
     background-color: transparent;
   }
 
@@ -1842,7 +1842,7 @@ div.alert a {
 }
 
 .docs-search .form-control:focus {
-  border-color: #EC7D3C;
+  border-color: #FF6C0C;
   box-shadow: 0 0 0 3px #768fff;
 }
 
@@ -1908,7 +1908,7 @@ div.alert a {
 .docs-sidebar .nav>.active:hover>a,
 .docs-sidebar .nav>.active>a {
   font-weight: bold;
-  color: #EC7D3C;
+  color: #FF6C0C;
   background-color: transparent;
 }
 
@@ -1917,7 +1917,7 @@ div.alert a {
 .docs-toggle {
   line-height: 1;
   font-size: 1.2rem;
-  color: #EC7D3C;
+  color: #FF6C0C;
   background-color: transparent;
 }
 
@@ -2034,7 +2034,7 @@ ul.toc-top {
 
 #TableOfContents li a:hover,
 .toc-top li a:hover {
-  color: #EC7D3C;
+  color: #FF6C0C;
   text-decoration: none;
 }
 
@@ -2047,7 +2047,7 @@ ul.toc-top {
 }
 
 .anchorjs-link:hover {
-  color: #EC7D3C;
+  color: #FF6C0C;
   text-decoration: none;
 }
 
@@ -2072,7 +2072,7 @@ body.dark,
 
 .dark .form-control:focus {
   background-color: rgb(68, 71, 90);
-  border-color: #EC7D3C;
+  border-color: #FF6C0C;
   box-shadow: 0 0 0 .2rem #0039cb;
 }
 
@@ -2105,7 +2105,7 @@ body.dark,
 }
 
 .dark ul.share li a {
-  background-color: #EC7D3C;
+  background-color: #FF6C0C;
 }
 
 .dark table table {
@@ -2158,7 +2158,7 @@ body.dark,
 }
 
 .dark .card h4 a {
-  color: #EC7D3C;
+  color: #FF6C0C;
   border-bottom: solid 1px transparent;
 }
 
