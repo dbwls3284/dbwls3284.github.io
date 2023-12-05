@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap");
-
+.email { font-size: 14px; font-family: "Ubuntu Mono"; }
 html {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
@@ -27,7 +27,7 @@ body {
     margin-top: 50px; /* Offset body content by navbar height. */
   }
 }
-.email { font-size: 14px; font-family: "Ubuntu Mono"; }
+
 .max-width-640 {
   max-width: 640px;
 }
